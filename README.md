@@ -37,7 +37,6 @@ All models are trained and tested on the **SAR-CLD-2024** dataset, comprising ov
 ├── mobilenet.ipynb                 # MobileNetV2 model
 ├── vgg16.ipynb                     # VGG16 model
 ├── xception.ipynb                  # Xception model
-├── utils/                          # Utility functions (visualization, preprocessing)
 └── README.md                       # Project documentation
 ```
 
