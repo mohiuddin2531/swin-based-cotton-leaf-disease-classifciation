@@ -91,13 +91,7 @@ Original Dataset/
 
 ---
 
-## 🧰 Installation
-
-Install required packages using pip:
-
-```bash
-pip install -r requirements.txt
-```
+## 🧰 Dependencies
 
 **Dependencies**:
 - Python ≥ 3.8  
